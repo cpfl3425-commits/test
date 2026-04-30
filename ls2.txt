@@ -1,0 +1,11 @@
+123123123.txt
+FILE_A
+LICENSE
+README.md
+ls.txt
+ls1.txt
+ls2.txt
+new123.txt
+test.txt
+너굴맨.jpg
+파월.jpg
