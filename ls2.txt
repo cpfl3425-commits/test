@@ -1,14 +1,10 @@
-total 80
-drwxr-xr-x 1 YUHAN 197121     0 May  7 13:30 ./
-drwxr-xr-x 1 YUHAN 197121     0 May  7 13:30 ../
-drwxr-xr-x 1 YUHAN 197121     0 May  7 13:30 .git/
--rw-r--r-- 1 YUHAN 197121  7788 Apr  2 15:24 .gitignore
+total 60
 -rw-r--r-- 1 YUHAN 197121     0 Apr  9 13:42 FILE_A
 -rw-r--r-- 1 YUHAN 197121 35823 Apr  2 15:24 LICENSE
 -rw-r--r-- 1 YUHAN 197121    93 Apr 16 14:03 README.md
--rw-r--r-- 1 YUHAN 197121     0 May  7 13:30 ls2.txt
+-rw-r--r-- 1 YUHAN 197121     0 May  7 14:16 ls2.txt
+-rw-r--r-- 1 YUHAN 197121   146 May  7 13:41 ls3.txt
 -rw-r--r-- 1 YUHAN 197121    83 Apr 16 14:15 new.txt
--rw-r--r-- 1 YUHAN 197121   474 Apr 30 14:24 nhm.txt
 -rw-r--r-- 1 YUHAN 197121   395 Apr  9 14:15 test.txt
 -rw-r--r-- 1 YUHAN 197121  6840 Apr  9 13:49 너굴맨.jpg
 -rw-r--r-- 1 YUHAN 197121  9711 Apr  9 13:53 파월.jpg
