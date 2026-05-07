@@ -1,0 +1,13 @@
+FILE_A
+LICENSE
+README.md
+ls3.txt
+new.txt
+nhm.txt
+66666666666666666
+4125125125
+125125125
+1251251251
+test.txt
+너굴맨.jpg
+파월.jpg
