@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 total 60
 -rw-r--r-- 1 YUHAN 197121     0 Apr  9 13:42 FILE_A
 -rw-r--r-- 1 YUHAN 197121 35823 Apr  2 15:24 LICENSE
@@ -8,3 +9,16 @@ total 60
 -rw-r--r-- 1 YUHAN 197121   395 Apr  9 14:15 test.txt
 -rw-r--r-- 1 YUHAN 197121  6840 Apr  9 13:49 너굴맨.jpg
 -rw-r--r-- 1 YUHAN 197121  9711 Apr  9 13:53 파월.jpg
+=======
+123123123.txt
+FILE_A
+LICENSE
+README.md
+ls.txt
+ls1.txt
+ls2.txt
+new123.txt
+test.txt
+너굴맨.jpg
+파월.jpg
+>>>>>>> 5f33e158b4f744209cb050d501cf41fb156b8a12
